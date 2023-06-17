@@ -10,6 +10,7 @@ export default function Home() {
   // }
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
+      <h1>By Ahmed Abbas</h1>
       <div>Stripe Check Out</div>
       <StripeCheckOutButton />
     </main>
